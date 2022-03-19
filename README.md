@@ -1,6 +1,6 @@
 个人博客网站：wypty.com
 
-# vue3.0-element-plus-
+# vue3.0-element-plus
 个人博客，vue3.0+element-plus+nodejs+mongoose+axios
 # client
 
