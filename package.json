@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "stylus-loader": "^6.2.0",
+    "vue-awesome-swiper": "^4.1.1"
+  },
+  "devDependencies": {
+    "vue-particles": "^1.0.9"
+  }
+}
